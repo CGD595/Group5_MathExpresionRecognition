@@ -41,7 +41,7 @@ The model demonstrates high accuracy in symbol recognition and effectively conve
 - Optimize model for deployment on mobile and resource-limited devices.
 
 ## Deployed Link
-[View the Deployed Application](#) *(Replace `#` with the actual deployed link)*
+[View the Deployed Application](#)
 
 ## Authors
 - Chime Gyeltshen Dorji
