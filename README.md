@@ -11,6 +11,7 @@ This project focuses on recognizing handwritten mathematical expressions using a
 - [Future Work](#future-work)
 - [Deployed Link](#deployed-link)
 - [Authors](#authors)
+- [Model and Code Access](#model-and-code-access)
 
 ## Introduction
 Mathematical Expression Recognition (MER) plays a crucial role in educational and professional settings, allowing for the digitization of handwritten math content. This project aims to design a CNN-Transformer model capable of converting handwritten expressions into LaTeX for easy editing and digital storage.
@@ -48,3 +49,8 @@ The model demonstrates high accuracy in symbol recognition and effectively conve
 - Chencho Wangdi
 - Tenzin Kinchap
 - Karma Wangchuk
+
+## Model and Code Access
+Due to GitHub's file size limit of 100 MB, our model and code could not be uploaded to the GitHub repository. You can access the model and code on Google Drive at the following link:
+
+[Download Model and Code](https://drive.google.com/file/d/1uXnDdeZsrp-Evht1aP1WXIoQ05ySpE3g/view?usp=sharing)
