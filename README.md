@@ -11,7 +11,6 @@ This project focuses on recognizing handwritten mathematical expressions using a
 - [Future Work](#future-work)
 - [Deployed Link](#deployed-link)
 - [Authors](#authors)
-- [License](#license)
 
 ## Introduction
 Mathematical Expression Recognition (MER) plays a crucial role in educational and professional settings, allowing for the digitization of handwritten math content. This project aims to design a CNN-Transformer model capable of converting handwritten expressions into LaTeX for easy editing and digital storage.
